@@ -16,5 +16,5 @@ Concepts implemented :
 2. Restricted Boltzmann Machines (for music generation)
 
 This repo consists of all the features of the application except the music generation part. In order to view the music generation code, view : 
-https://github.com/VergaraF
+https://github.com/VergaraF/Deep-Sense
 
